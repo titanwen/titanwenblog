@@ -1,2 +1,2 @@
-# Introduction
+用于记录生活和学习所得
 

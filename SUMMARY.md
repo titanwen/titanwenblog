@@ -1,4 +1,4 @@
 # Summary
 
-* [Introduction](README.md)
-* [Golang](content/golang/README.md)
+* [简介](README.md)
+* [golang](content/golang/README.md)
