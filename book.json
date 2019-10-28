@@ -9,7 +9,8 @@
         "readme": "README.md"
     },
     "plugins": [
-    	"sharing"
+    	"sharing",
+        "fontsettings"
     ],
     "pluginsConfig": {
         "sharing": {
@@ -31,6 +32,11 @@
             "weibo": false,
             "whatsapp": false,
             "all": []
+        },
+        "fontsettings": {
+            "theme": "white",
+            "family": "serif",
+            "size": 12
         }
     }
 }
