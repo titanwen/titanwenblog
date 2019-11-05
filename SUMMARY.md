@@ -4,6 +4,7 @@
 * [Go学习笔记](content/go/README.md)
 	* [leetcode学习](content/go/leetcode/README.md)
 		* [1 Two Sum](content/go/leetcode/1/1.md)
+		* [2 Add Two Sum](content/go/leetcode/2/2.md)
 	* [Gin](content/go/gin/gin.md)
 	* [go-echarts](content/go/go-echarts/go-echarts.md)
 	* [Go语言中的interface小结](content/go/interface/interface.md)
